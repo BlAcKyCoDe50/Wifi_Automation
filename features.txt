@@ -4,3 +4,4 @@
 4. asks their name 
 5. Live date and time
 6. notification to wait until the ACTION_NEEDED
+7. if the user enters the wrong username it shows that the username and password is wrong
