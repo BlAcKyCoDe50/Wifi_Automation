@@ -1,0 +1,6 @@
+1. save the login info of the users
+2. ask the user to provide the edge driver path 
+3. some GUI 
+4. asks their name 
+5. Live date and time
+6. notification to wait until the ACTION_NEEDED
