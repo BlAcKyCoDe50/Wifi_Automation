@@ -1,5 +1,5 @@
 ﻿# Wifi_Automation
-# LPU Wi-Fi Connector
+# LPU Wi-Fi Connector auto
 
 ## Introduction
 This simple Python application helps users connect to specific Wi-Fi networks commonly found in LPU hostels, such as "LPU Hostles" and "Wireless." It provides a user-friendly interface for entering credentials and automates the login process using Selenium.
