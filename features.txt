@@ -1,4 +1,4 @@
-1. save the login info of the users
+1. save the login info of the users using MySQL 
 2. ask the user to provide the edge driver path 
 3. some GUI 
 4. asks their name 
