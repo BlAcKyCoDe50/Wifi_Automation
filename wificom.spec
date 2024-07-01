@@ -8,7 +8,7 @@ a = Analysis(
     ['wificom.pyw'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=['Z:\\My_World\\Wifi_APP\\Blacky_1.jpg', '.'],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
