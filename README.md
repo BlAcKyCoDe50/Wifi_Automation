@@ -1,5 +1,9 @@
 # Wi-Fi Automation Application
 
+![icon](https://github.com/user-attachments/assets/6a354587-8ee4-4359-b551-d3013b37b59c)
+
+
+
 ## Please provide the feedback or any improvements required, it will hardly take 2 minutes!!
 ### https://forms.gle/iUEDGn7JF3TjbvFaA
 
@@ -21,11 +25,14 @@ This application automates the process of logging into the university Wi-Fi netw
 
 ## Getting Started
 
+![image](https://github.com/user-attachments/assets/e8a25549-f262-4940-926b-ba5ff8827b27)
+
 ### Prerequisites
 
 - Python 3.x
 - Docker
 
+## Watch the Demo [click here](https://youtu.be/pp6kFQskK6s)
 ### Installation
 
 1. Clone the repository:
@@ -75,7 +82,8 @@ The Docker container image is available on Docker Hub. You can pull it using the
 
 ## Download
 
-To download the application, [click here](https://www.dropbox.com/scl/fi/m6hv54zx9bfyyr3gmqsdo/mainfile.exe?rlkey=8ufmi1ltzoyfbzz0zefdn7ca4&st=zshnw6gg&dl=0).
+To download the application, [click here](https://www.dropbox.com/scl/fi/m6hv54zx9bfyyr3gmqsdo/mainfile.exe?rlkey=8ufmi1ltzoyfbzz0zefdn7ca4&st=zshnw6gg&dl=0)
+
 
 ## Contributing
 
