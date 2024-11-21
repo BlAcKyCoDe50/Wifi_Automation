@@ -3,13 +3,14 @@
 ![icon](https://github.com/user-attachments/assets/6a354587-8ee4-4359-b551-d3013b37b59c)
 
 
-
 ## Please provide the feedback or any improvements required, it will hardly take 2 minutes!!
 ### https://forms.gle/iUEDGn7JF3TjbvFaA
 
 ## Overview
 
 This application automates the process of logging into the university Wi-Fi network using a Tkinter GUI and Selenium for web automation. It handles various edge cases related to page states and interactions, and it is packaged for cross-platform use.
+
+![Demo](./assets/videoplayback.gif)
 
 # Download
 
